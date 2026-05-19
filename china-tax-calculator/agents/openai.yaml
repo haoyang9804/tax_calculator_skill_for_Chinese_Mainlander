@@ -1,4 +1,4 @@
 interface:
   display_name: "China Tax Calculator"
   short_description: "Calculate mainland China annual after-tax pay."
-  default_prompt: "Use $china-tax-calculator to calculate my mainland China annual after-tax income from monthly base pay, housing fund, annual bonus, and signing bonus."
+  default_prompt: "Use $china-tax-calculator to calculate my mainland China after-tax income from monthly base pay, city social insurance and housing fund, annual bonus, signing bonus, options, RSUs, and stock gains."

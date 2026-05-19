@@ -1,7 +1,7 @@
 {
   "name": "tax-calculator-skill-for-chinese-mainlander",
-  "version": "0.1.0",
-  "description": "Codex skill installer for a mainland China after-tax income calculator.",
+  "version": "0.2.0",
+  "description": "Codex skill installer for a mainland China after-tax compensation calculator.",
   "bin": {
     "add": "bin/add.js"
   },
