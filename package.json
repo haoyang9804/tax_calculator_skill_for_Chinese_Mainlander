@@ -1,0 +1,24 @@
+{
+  "name": "tax-calculator-skill-for-chinese-mainlander",
+  "version": "0.1.0",
+  "description": "Codex skill installer for a mainland China after-tax income calculator.",
+  "bin": {
+    "add": "bin/add.js"
+  },
+  "files": [
+    "bin/add.js",
+    "china-tax-calculator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haoyang9804/tax_calculator_skill_for_Chinese_Mainlander.git"
+  },
+  "keywords": [
+    "codex",
+    "skill",
+    "china",
+    "tax",
+    "calculator"
+  ],
+  "license": "MIT"
+}
